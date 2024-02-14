@@ -1,5 +1,5 @@
 
-![Project Logo](https://example.com/logo.png)
+![Project Logo]([https://example.com/logo.png](https://github.com/ka-us-tubh/AutoPIPE/blob/main/autopipe-high-resolution-logo.png))
 
 #AutoPIPE: Targeted Marketing
 
