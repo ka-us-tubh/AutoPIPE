@@ -22,8 +22,9 @@ There are no specific installation steps required for this project. However, ens
 
 - Access to Power Automate Desktop.
 - Access to the ChatGPT or other LLM.
-![Process Bar](https://github.com/ka-us-tubh/AutoPIPE/blob/main/autopipe.drawio.png)
+
 ## Process-Flow
+![Process Bar](https://github.com/ka-us-tubh/AutoPIPE/blob/main/autopipe.drawio.png)
 
 1. **Initiate Power Automate Flow:**
    - Find and select the AutoPIPE: Targeted Marketing flow.
